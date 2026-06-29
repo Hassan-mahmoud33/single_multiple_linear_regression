@@ -16,7 +16,7 @@ to predict output ( profit )
 ### Dataset Source
 
 - The dataset used in this project is from Andrew Ng's Machine Learning course programming exercises.
-- Source: https://github.com/kaleko/CourseraML/blob/master/ex2/ex2data1.txt
+**Source:** [ex1data1.txt Dataset](https://github.com/jxareas/Machine-Learning-Notebooks/blob/master/1_Supervised_Machine_Learning/Week%202.%20Regression%20with%20multiple%20input%20variables/data/ex1data1.txt)
 
 The model trains on a two-column dataset (`data_single_var.txt`):
 
