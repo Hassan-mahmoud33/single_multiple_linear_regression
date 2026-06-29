@@ -58,11 +58,22 @@ to predict output ( profit )
  - draw a graph for Cost function vs iterations
 
 
+## Results
+- Cost before gradient = 32.072733877455676 
+- Cost after gradient = 4.4846848047288494 
+- Cost = [6.73719046 5.93159357 5.90115471 ... 4.48476876 4.48474067 4.48471269]
+-Number of iterations = 1448
+- theta after gradient = [[-3.60470313  1.16379173]]
+- predicted profit for 70k people = 44554.55
+- predicted profit for 10k people = -27027.47
+- predicted profit for 40k people = 8763.54
 
 
+## Visualization
+the figure below shows the fitted regression line on the training data ( left )
+and the cost function vs iterations ( right )
 
-
-
+![Visualization](images/figure_2.png)
 
 
 
