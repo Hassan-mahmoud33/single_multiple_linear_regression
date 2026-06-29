@@ -12,9 +12,16 @@ to predict output ( profit )
 
 
 ## Dataset Structure
-- the model trains on two column dataset ('data_single_var.txt')
-- ** population **: the size of the city population ( independent variable X )
-- ** profit *: the profit of that city ( dependent variavle y )
+
+### Dataset Source
+
+- The dataset used in this project is from Andrew Ng's Machine Learning course programming exercises.
+- Source: https://github.com/kaleko/CourseraML/blob/master/ex2/ex2data1.txt
+
+The model trains on a two-column dataset (`data_single_var.txt`):
+
+- **Population**: The size of the city population (independent variable X).
+- **Profit**: The profit of the city (dependent variable y).
 
 
 ## implementation Details
